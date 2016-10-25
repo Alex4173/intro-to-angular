@@ -1,5 +1,5 @@
 (function() {
 
-  angular.module('intro', []);
+  angular.module('intro', []); //setter syntax -> starts the application
 
   }());
